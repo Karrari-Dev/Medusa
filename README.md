@@ -60,7 +60,9 @@ UDP
 
 ⚙️ نحوه استفاده
 
-```bash curl -L https://github.com/Shayankarari/Medusa/releases/download/V1.0.0/medusa -o /usr/local/bin/medusa && chmod +x /usr/local/bin/medusa ``` 
+```bash
+curl -L https://github.com/Shayankarari/Medusa/releases/download/V1.0.0/medusa -o /usr/local/bin/medusa && chmod +x /usr/local/bin/medusa
+``` 
 
 
 
