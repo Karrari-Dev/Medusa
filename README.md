@@ -60,7 +60,8 @@ UDP
 
 **⚙️ نحوه استفاده**
 
-<img width="1140" height="634" alt="Screenshot 2025-09-04 224851" src="https://github.com/user-attachments/assets/d76039a8-0e48-4994-a932-aad63e8b8397" />
+<img width="1359" height="634" alt="Screenshot 2025-09-05 000037" src="https://github.com/user-attachments/assets/ec737096-2189-442b-8b40-335917dbce21" />
+
 
 **1️⃣ دانلود و نصب هسته روی سرور**
 
