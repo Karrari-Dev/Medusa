@@ -82,7 +82,7 @@ curl -L https://github.com/Karrari-Dev/Medusa/releases/download/V1.0.0/medusa -o
 
 **3️⃣ اجرای Medusa و کانفیگ تونل**
 
-روی هر سرور با نوشتن medusa منو برای استفاده باز میشود 
+روی هر سرور با نوشتن **medusa** منو برای استفاده باز میشود 
 
 از منو گزینه ۱ (Start/Configure) رو انتخاب کنید.
 
