@@ -65,10 +65,16 @@ UDP
 
 **1️⃣ دانلود و نصب هسته روی سرور**
 
-روی سرور ایران و خارج این دستور رو اجرا کنید:
+روی سرور ایران و خارج مناسب با سیستم عامل سرور خود دستور رو اجرا کنید:
+
+**medusa-linux-x86_64**
 
 ```bash
-curl -L https://github.com/Karrari-Dev/Medusa/releases/download/V1.0.0/medusa -o /usr/local/bin/medusa && chmod +x /usr/local/bin/medusa
+curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/V1.0.0/medusa-linux-x86_64.tar.gz" \
+| tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
+
+
+
 ```
 **2️⃣ گرفتن لایسنس تست یا خریداری‌شده از ربات**
 
