@@ -56,6 +56,8 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.1/medus
 medusa
 ```
 **3️⃣ اجرای Medusa**
+
+
 از منو گزینه Start/Configure رو انتخاب کنید.
 
 مشخص کنید که سرور شما Server یا Client باشه.
@@ -68,6 +70,8 @@ medusa
 
 
 **4️⃣ مدیریت سریع**
+
+
 Status → وضعیت تونل
 
 Restart → ری‌استارت سریع
