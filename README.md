@@ -43,7 +43,7 @@
 
 Linux x86_64:
 ```bash
-curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.1/medusa-linux-x86_64.tar.gz" \
+curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-x86_64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
 ```
 Linux aarch64:
