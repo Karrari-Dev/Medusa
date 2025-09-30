@@ -48,7 +48,7 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 ```
 Linux aarch64:
 ```bash
-curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.1/medusa-linux-aarch64.tar.gz" \
+curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
 ```
 ⚠️ نکته مهم: بعد از نصب، باید دستور زیر رو بزنید تا منو باز بشه:
