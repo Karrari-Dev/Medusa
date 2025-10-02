@@ -1,7 +1,7 @@
 <p align="center">
   🌐 Available in: 
-  <a href="#-فارسی">فارسی</a> | 
-  <a href="#-english-version">English</a>
+  <a href="#فارسی">فارسی</a> | 
+  <a href="#english-version">English</a>
 </p>
 
 ## فارسی
