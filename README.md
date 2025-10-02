@@ -30,6 +30,7 @@
 **1️⃣ دریافت لایسنس تست یا خرید**
 
 به ربات تلگرام برید:
+
 [![Telegram Bot](https://img.shields.io/badge/Telegram-%40medusaapp__bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusaapp_bot)
 
 
@@ -94,6 +95,7 @@ Delete → حذف تنظیمات
 ✨ به همین سادگی: لایسنس بگیر → نصب کن → medusa رو بزن → وصل شو!
 
 **📩 پشتیبانی و خرید لایسنس:**
+
 [![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
 
 
@@ -132,6 +134,7 @@ Just install, get your license, and start with a single command 🚀
 **1️⃣ Get License (Trial or Paid)**
 
 Go to Telegram bot:
+
 [![Telegram Bot](https://img.shields.io/badge/Telegram-%40medusaapp__bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusaapp_bot)
 
 
@@ -191,5 +194,6 @@ Delete → Clear configuration
 ----
 
 **📩 Support & License Purchase:**
+
 [![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
 
