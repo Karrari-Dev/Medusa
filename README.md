@@ -95,7 +95,8 @@ Delete → حذف تنظیمات
 
 **📩 پشتیبانی و خرید لایسنس:**
 
-👉 @medusatun
+[![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
+
 
 
 
