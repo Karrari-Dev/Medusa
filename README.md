@@ -4,7 +4,7 @@
 یک هسته‌ی تونلینگ قدرتمند و انعطاف‌پذیر است که با تمرکز بر پایداری، امنیت و ضدشناسایی طراحی شده.
 کافیست نصب کنید، لایسنس بگیرید و فقط با یک دستور شروع به استفاده کنید 🚀
 
-
+----
 ✨ ویژگی‌ها
 
 🔄 مدهای Direct و Reverse
@@ -23,10 +23,10 @@
 ----
 <img width="1713" height="744" alt="Screenshot 2025-10-03 011702" src="https://github.com/user-attachments/assets/332fbea9-3c3f-4794-85dc-7504c02e93c7" />
 
-----
 
 **⚙️ شروع سریع**
 
+----
 **1️⃣ دریافت لایسنس تست یا خرید**
 
 به ربات تلگرام برید:
@@ -57,7 +57,7 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
 
-
+----
 ⚠**️ نکته مهم:** بعد از نصب، باید دستور زیر رو بزنید تا منو باز بشه:
 
 medusa
@@ -107,6 +107,7 @@ Delete → حذف تنظیمات
 🐍 Medusa Tunnel is a powerful and flexible tunneling core, designed with a focus on stability, security, and anti-detection.
 Just install, get your license, and start with a single command 🚀
 
+----
 
 ✨ Features
 
@@ -133,10 +134,10 @@ Go to Telegram bot:
 
 👉 @medusaapp_bot
 
-----
-
 You can get a trial license or use your purchased one.
 Set both Iran & Foreign server IPs behind the license.
+
+----
 
 **2️⃣ Install on Server**
 
@@ -152,6 +153,7 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
 
+----
 
 ⚠️ After installation, run:
 
