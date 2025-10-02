@@ -85,17 +85,17 @@ medusa
   - **Enter Kharej IP:** آی‌پی سرور خارج
   - **Select protocols:** یکی از `TCP`، `UDP` یا `TCP+UDP`
   - **Ports Setup:**
-    ```
+    ``
     How many TCP ports? [1]: 3
     TCP local #1: 80
     TCP local #2: 443
     TCP local #3: 2053
-    ```
+    ``
     اگر UDP هم انتخاب کرده باشید:
-    ```
+    ``
     How many UDP ports? [1]: 1
     UDP local #1: 2053
-    ```
+    ``
 
 - **روی سرور خارج:** فقط **Tunnel port** و **Tunnel password** را وارد کنید (باید دقیقا با سرور ایران یکی باشد).
 
