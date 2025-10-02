@@ -209,18 +209,61 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 medusa
 
 ----
+### 3️⃣ Run Medusa
 
-**3️⃣ Run Medusa**
+After running `medusa`, select **Start / Configure** from the menu. Then you’ll see the tunnel configuration screen.
 
-From menu, select **Start/Configure**
+---
 
-Choose **Server** or **Client** mode
+#### Direct Mode (Iran → Foreign)
 
-Select tunnel type **(Direct / Reverse)**
+- **On the Iran server:**
+  - **Tunnel port:** e.g., `200`
+  - **Tunnel password:** must match on both servers
+  - **Enter Foreign IP:** foreign server IP
+  - **Select protocols:** choose `TCP`, `UDP`, or `TCP+UDP`
+  - **Ports Setup:**
+    ```
+    How many TCP ports? [1]: 3
+    TCP local #1: 80
+    TCP local #2: 443
+    TCP local #3: 2053
+    ```
+    If UDP also selected:
+    ```
+    How many UDP ports? [1]: 1
+    UDP local #1: 2053
+    ```
 
-Enter port, password, and server IP
+- **On the Foreign server:** only enter **Tunnel port** and **Tunnel password** (must match Iran server).
 
-Done! Your tunnel is ready 🚀
+---
+
+#### Reverse Mode (Foreign → Iran)
+
+- **On the Foreign server:**
+  - **Tunnel port:** e.g., `200`
+  - **Tunnel password:** same as Iran server
+  - **Enter Iran IP:** Iran server IP
+  - **Select protocols:** `TCP`, `UDP`, or `TCP+UDP`
+  - **Ports Setup:**
+    ```
+    How many TCP ports? [1]: 2
+    TCP local #1: 80
+    TCP local #2: 443
+    ```
+    If UDP also selected:
+    ```
+    How many UDP ports? [1]: 1
+    UDP local #1: 2053
+    ```
+
+- **On the Iran server:** only enter **Tunnel port** and **Tunnel password** (must match Foreign server).
+
+---
+
+⚡️ **Important:**  
+In both Direct and Reverse modes, the **port(s) and password must match exactly** on both servers.
 
 ----
 
