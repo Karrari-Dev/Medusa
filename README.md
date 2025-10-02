@@ -27,19 +27,26 @@
 **⚙️ شروع سریع**
 
 **1️⃣ دریافت لایسنس تست یا خرید**
+
 به ربات تلگرام برید:
+
 👉 @medusaapp_bot
+
 
 می‌تونید لایسنس تست بگیرید یا لایسنس خریداری‌شده وارد کنید.
 آی‌پی‌های سرور ایران و خارج رو پشت لایسنس ست کنید.
 
 **2️⃣ نصب روی سرور**
+
 دستور زیر فقط هسته **Medusa** رو نصب می‌کنه (هیچ منویی باز نمیشه):
+
+
 
 **Linux x86_64:**
 
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-x86_64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
+
 
 
 **Linux aarch64:**
@@ -80,8 +87,12 @@ Delete → حذف تنظیمات
 ✨ به همین سادگی: لایسنس بگیر → نصب کن → medusa رو بزن → وصل شو!
 
 **📩 پشتیبانی و خرید لایسنس:**
+
 👉 @medusatun
 
+
+
+--------------
 
 
 **English**
@@ -89,19 +100,30 @@ Delete → حذف تنظیمات
 🐍 Medusa Tunnel is a powerful and flexible tunneling core, designed with a focus on stability, security, and anti-detection.
 Just install, get your license, and start with a single command 🚀
 
+
 ✨ Features
 
 🔄 Direct and Reverse modes
+
 🌐 TCP & UDP support
+
 🔐 ChaCha20 + TLS encryption
+
 🕵️ Anti-detection & Anti-Packet Analysis
+
 ⚡ Automatic seamless handoff every 30 seconds
+
 📊 Per-tunnel traffic monitoring & statistics
+
 
 ⚙️ Quick Start
 
+
+
 **1️⃣ Get License (Trial or Paid)**
+
 Go to Telegram bot:
+
 👉 @medusaapp_bot
 
 You can get a trial license or use your purchased one.
@@ -152,4 +174,5 @@ Delete → Clear configuration
 ✨ That’s it: Get license → Install → Run medusa → Connect!
 
 **📩 Support & License Purchase:**
+
 👉 @medusatun
