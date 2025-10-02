@@ -143,6 +143,7 @@ Delete → حذف تنظیمات
 [![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
 
 
+
 ---
 
 ## 🇬🇧 English Version
