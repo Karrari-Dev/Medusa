@@ -20,9 +20,10 @@
 📊 مانیتورینگ ترافیک و وضعیت هر تونل به صورت جداگانه
 
 
-
+----
 <img width="1713" height="744" alt="Screenshot 2025-10-03 011702" src="https://github.com/user-attachments/assets/332fbea9-3c3f-4794-85dc-7504c02e93c7" />
 
+----
 
 **⚙️ شروع سریع**
 
@@ -36,6 +37,7 @@
 می‌تونید لایسنس تست بگیرید یا لایسنس خریداری‌شده وارد کنید.
 آی‌پی‌های سرور ایران و خارج رو پشت لایسنس ست کنید.
 
+----
 **2️⃣ نصب روی سرور**
 
 دستور زیر فقط هسته **Medusa** رو نصب می‌کنه (هیچ منویی باز نمیشه):
@@ -59,6 +61,7 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 
 medusa
 
+----
 
 **3️⃣ اجرای Medusa**
 
@@ -72,6 +75,8 @@ medusa
 
 تنظیمات ذخیره میشه و تونل آماده استفاده است 🚀
 
+
+----
 **4️⃣ مدیریت سریع**
 
 
@@ -84,6 +89,7 @@ Autostart → اجرای خودکار موقع بوت
 
 Delete → حذف تنظیمات
 
+----
 ✨ به همین سادگی: لایسنس بگیر → نصب کن → medusa رو بزن → وصل شو!
 
 **📩 پشتیبانی و خرید لایسنس:**
@@ -115,9 +121,9 @@ Just install, get your license, and start with a single command 🚀
 
 📊 Per-tunnel traffic monitoring & statistics
 
+----
 
 ⚙️ Quick Start
-
 
 
 **1️⃣ Get License (Trial or Paid)**
@@ -125,6 +131,8 @@ Just install, get your license, and start with a single command 🚀
 Go to Telegram bot:
 
 👉 @medusaapp_bot
+
+----
 
 You can get a trial license or use your purchased one.
 Set both Iran & Foreign server IPs behind the license.
@@ -148,6 +156,7 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 
 medusa
 
+----
 
 **3️⃣ Run Medusa**
 
@@ -161,6 +170,8 @@ Enter port, password, and server IP
 
 Done! Your tunnel is ready 🚀
 
+----
+
 **4️⃣ Fast Management**
 
 Status → Check tunnel status
@@ -172,6 +183,8 @@ Autostart → Run on boot
 Delete → Clear configuration
 
 ✨ That’s it: Get license → Install → Run medusa → Connect!
+
+----
 
 **📩 Support & License Purchase:**
 
