@@ -21,7 +21,8 @@
 
 
 ---
-<img width="1359" height="634" alt="Screenshot 2025-09-05 000037" src="https://github.com/user-attachments/assets/ec737096-2189-442b-8b40-335917dbce21" />
+<img width="1713" height="744" alt="Screenshot 2025-10-03 011702" src="https://github.com/user-attachments/assets/332fbea9-3c3f-4794-85dc-7504c02e93c7" />
+
 
 
 **⚙️ شروع سریع**
