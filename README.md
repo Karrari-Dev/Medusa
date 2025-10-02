@@ -58,7 +58,6 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
 
-----
 ⚠**️ نکته مهم:** بعد از نصب، باید دستور زیر رو بزنید تا منو باز بشه:
 
 medusa
@@ -144,13 +143,12 @@ Delete → حذف تنظیمات
 [![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
 
 
+---
 
+## 🇬🇧 English Version
 
-------
------
------
+---
 
-**English**
 
 🐍 Medusa Tunnel is a powerful and flexible tunneling core, designed with a focus on stability, security, and anti-detection.
 Just install, get your license, and start with a single command 🚀
@@ -202,7 +200,6 @@ curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medus
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
 
-----
 
 ⚠️ After installation, run:
 
