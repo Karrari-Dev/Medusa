@@ -4,7 +4,7 @@
   <a href="#-english-version">English</a>
 </p>
 
-## 🇮🇷 فارسی
+## فارسی
 
 
 **🐍 Medusa Tunnel**
@@ -154,7 +154,7 @@ Delete → حذف تنظیمات
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 
 ---
@@ -180,6 +180,7 @@ Just install, get your license, and start with a single command 🚀
 📊 Per-tunnel traffic monitoring & statistics
 
 ----
+<img width="1713" height="744" alt="Screenshot 2025-10-03 011702" src="https://github.com/user-attachments/assets/332fbea9-3c3f-4794-85dc-7504c02e93c7" />
 
 ⚙️ Quick Start
 
