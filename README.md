@@ -154,7 +154,7 @@ Delete → حذف تنظیمات
 
 ---
 
-## English Version
+##  English Version
 
 
 ---
