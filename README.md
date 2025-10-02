@@ -55,21 +55,21 @@
 
 
 **Linux x86_64:**
-
+```bash
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-x86_64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
-
+```
 
 
 **Linux aarch64:**
-
+```bash
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
-
+```
 ⚠**️ نکته مهم:** بعد از نصب، باید دستور زیر رو بزنید تا منو باز بشه:
-
+```
 medusa
-
+```
 ----
 ### 3️⃣ اجرای Medusa
 
@@ -201,21 +201,21 @@ Set both Iran & Foreign server IPs behind the license.
 
 
 **Linux x86_64:**
-
+```
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-x86_64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
-
+```
 
 **Linux aarch64:**
-
+```
 curl -fsSL "https://github.com/Karrari-Dev/Medusa/releases/download/v1.0.2/medusa-linux-aarch64.tar.gz" \
 | tar -xz -C /usr/local/bin medusa && chmod +x /usr/local/bin/medusa
-
+```
 
 ⚠️ After installation, run:
-
+```
 medusa
-
+```
 ----
 ### 3️⃣ Run Medusa
 
