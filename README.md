@@ -89,6 +89,8 @@ Restart → ری‌استارت سریع
 
 Autostart → اجرای خودکار موقع بوت
 
+Traffic (Upload/Download) → مانیتورینگ ترافیک و وضعیت هر تونل
+
 Delete → حذف تنظیمات
 
 ----
@@ -186,6 +188,8 @@ Status → Check tunnel status
 Restart → Quick restart
 
 Autostart → Run on boot
+
+Traffic (Upload/Download) → Per-tunnel traffic monitoring
 
 Delete → Clear configuration
 
