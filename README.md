@@ -39,7 +39,7 @@
 
 به ربات تلگرام برید:
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-%40medusaapp__bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusaapp_bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-%40mnxcore_bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/mnxcore_bot)
 
 
 
@@ -148,7 +148,7 @@ Delete → حذف تنظیمات
 
 **📩 پشتیبانی و خرید لایسنس:**
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
+[![Telegram](https://img.shields.io/badge/Telegram-%40g0dline-26A5E4?logo=telegram&logoColor=white)](https://t.me/g0dline)
 
 
 
@@ -189,7 +189,7 @@ Just install, get your license, and start with a single command 🚀
 
 Go to Telegram bot:
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-%40medusaapp__bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusaapp_bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-%40mnxcore_bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/mnxcore_bot)
 
 
 You can get a trial license or use your purchased one.
@@ -293,5 +293,5 @@ Delete → Clear configuration
 
 **📩 Support & License Purchase:**
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40medusatun-26A5E4?logo=telegram&logoColor=white)](https://t.me/medusatun)
+[![Telegram](https://img.shields.io/badge/Telegram-%40g0dline-26A5E4?logo=telegram&logoColor=white)](https://t.me/g0dline)
 
